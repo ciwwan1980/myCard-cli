@@ -3,7 +3,7 @@ let object={
 name:"ajil", 
 lastName:"abd", 
 githublink:"github.com",
-contactNumber="232323223"
+contactNumber:"232323223"
 
 }
 
